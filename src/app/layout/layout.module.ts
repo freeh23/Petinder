@@ -18,9 +18,9 @@ import { ProfileGalleryComponent } from './profile-gallery/profile-gallery.compo
   exports: [
     LayoutComponent
   ],
-  imports: [
-    CommonModule,
-    RouterModule
-  ]
+    imports: [
+        CommonModule,
+        RouterModule
+    ]
 })
 export class LayoutModule { }
